@@ -1,0 +1,2 @@
+# simplystatic
+Simply Static test
